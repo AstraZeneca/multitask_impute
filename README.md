@@ -1,7 +1,7 @@
 ![Maturity level-0](https://img.shields.io/badge/Maturity%20Level-ML--0-red)
 
 # multitask_impute
-This repository contains the supplementary code for the paper 'Deep Learning Imputation for Multi Task Learning' (authors Sophie Peacock, Etai Jacob, Nikolay Burlutskiy). Please get in touch if you would like to make any contributions to this work.
+This repository contains the supplementary code for the paper 'Deep Learning Imputation for Multi Task Learning' (authors Sophie Peacock, Etai Jacob, Nikolay Burlutskiy). Please get in touch using nikolay.burlutskiy@astrazeneca.com if you would like to make any contributions to this work.
 
 The workflow can be split into three stages. For each stage a .sh file can be found:
 1. Preprocessing data and training imputation models
